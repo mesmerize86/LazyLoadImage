@@ -1,2 +1,2 @@
-# LazyLoadImage
+# LazyLoading
 Created with CodeSandbox
